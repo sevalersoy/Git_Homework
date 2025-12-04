@@ -2,6 +2,7 @@ import java.util.Random;
 
 public class Main {
     public static void main(String[] args) {
+        //Z1.2: Edited by Furkan Table size 100 
         int[] numbers = new int[10];
 
         Random random = new Random();
