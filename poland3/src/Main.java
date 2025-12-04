@@ -21,10 +21,10 @@ public class Main {
             }
         }
 
-        System.out.println("Table elements:");
+        System.out.println("Table elements(modified by Furkan):");
 
         for (int i = 1; i < numbers.length; i++) {
-            System.out.println("Element " + i + ": " + numbers[i]);
+            System.out.println("Number[" + i + "] = " + numbers[i] + " (edited)");
         }
     }
 }
