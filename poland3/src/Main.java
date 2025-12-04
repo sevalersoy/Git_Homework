@@ -2,6 +2,7 @@ import java.util.Random;
 
 public class Main {
     public static void main(String[] args) {
+        //z1:Seval's change. Table size is 10.
         int[] numbers = new int[10];
 
         Random random = new Random();
